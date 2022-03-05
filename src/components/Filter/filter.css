@@ -1,0 +1,30 @@
+
+.filter .categoryItem{
+    /* display: inline-block; */
+    padding: 2px 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: #418d8d;
+    color:#fff;
+    border-radius:5px;
+}
+filter .categoryItem:hover{
+    background-color: #3ebbbb;
+    
+}
+/* .filter ul {
+    list-style: none;
+   display: contents;
+} */
+/* .filter ul li{
+    display: inline;
+    padding: 1px 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: #418d8d;
+    color:#fff;
+    border-radius:5px;
+} */
+/* .filter ul li:hover{
+    background-color: #3ebbbb;
+} */
